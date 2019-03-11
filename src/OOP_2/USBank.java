@@ -8,6 +8,11 @@ public interface USBank {
 	
 	public void debit();
 	
+	public static void harm(){
+		
+		System.out.println("Yeah111");
+	}
+	
 	public void transferMoney();
 	//Hahahahahah1222223
 
