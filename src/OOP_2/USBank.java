@@ -10,6 +10,10 @@ public interface USBank {
 	
 	public void transferMoney();
 	//Hahahahahah1222223
+
+	//Hahahahahah1
+	//hell0
+
 	//public void crypto();
 	
 	//1. can not have method body -- only prototype/declaration
