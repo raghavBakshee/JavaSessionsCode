@@ -8,8 +8,18 @@ public interface USBank {
 	
 	public void debit();
 	
-	public void transferMoney();
+	public static void harm(){
+		
+		System.out.println("Yeah111");
+	}
 	
+	public void transferMoney();
+	//Hahahahahah1222223
+
+	//Hahahahahah1
+
+	//hell0
+
 	//public void crypto();
 	
 	//1. can not have method body -- only prototype/declaration
